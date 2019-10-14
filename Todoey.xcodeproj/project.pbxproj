@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C0DFB66234E0B6000EA8E0E /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0DFB65234E0B6000EA8E0E /* CategoryTableViewController.swift */; };
 		8C74524623482746001E5E0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C74524523482746001E5E0C /* AppDelegate.swift */; };
 		8C74524823482746001E5E0C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C74524723482746001E5E0C /* SceneDelegate.swift */; };
 		8C74524A23482746001E5E0C /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C74524923482746001E5E0C /* TodoListViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C0DFB65234E0B6000EA8E0E /* CategoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
 		8C74524223482746001E5E0C /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C74524523482746001E5E0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8C74524723482746001E5E0C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		8C74525D23487F87001E5E0C /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				8C0DFB65234E0B6000EA8E0E /* CategoryTableViewController.swift */,
 				8C74524923482746001E5E0C /* TodoListViewController.swift */,
 			);
 			name = Controllers;
@@ -175,6 +178,7 @@
 			files = (
 				8C74526223489278001E5E0C /* DataModel.xcdatamodeld in Sources */,
 				8C74524A23482746001E5E0C /* TodoListViewController.swift in Sources */,
+				8C0DFB66234E0B6000EA8E0E /* CategoryTableViewController.swift in Sources */,
 				8C74524623482746001E5E0C /* AppDelegate.swift in Sources */,
 				8C74524823482746001E5E0C /* SceneDelegate.swift in Sources */,
 			);
